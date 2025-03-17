@@ -43,8 +43,36 @@ display: flex;
     width: 25%;
     height: 100%;
     background-color: blueviolet;
+    background-size: cover;
+}
+.foto1{
+    background-image: url(./imagens/030616-FM-Festa-Junina-Iate-Clube-066-1.jpg);
+
 }
 
+.foto2{
+    background-image: url(./imagens/como-organizar-uma-festa-show-1024x630-1-1-1-1-1-2.jpg);
+}
+
+.foto3{
+    background-image: url(./imagens/Festa-Formatura-de-Sucesso.jpg);
+}
+.foto4{
+    background-image: url(./imagens/festaterapia-lauramarques-06031-1-.avif);
+}
+.foto5{
+    background-image: url(./imagens/festaterapia-lauramarques-06031-1-.avif);
+}
+
+.foto6{
+    background-image: url(./imagens/images.jpeg);
+}
+.foto7{
+    background-image: url(./imagens/images\ \(1\).jpeg);
+}
+.foto8{
+    background-image: url(./imagens/Festa-Formatura-de-Sucesso.jpg);
+}
 .container-direita{
     flex-grow: 1;
     height: 100%;
