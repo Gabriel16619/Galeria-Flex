@@ -1,5 +1,5 @@
 # galeria-flex
-![](./print-galeria-flex.png)
+![](print-atualizado.png)
 
 ## Tecnologias 
 * HTML
